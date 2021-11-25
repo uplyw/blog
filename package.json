@@ -1,0 +1,14 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "博客",
+  "main": "index.js",
+  "repository": "https://github.com/uplyw/blog.git",
+  "author": "uplyw <uplyw@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
